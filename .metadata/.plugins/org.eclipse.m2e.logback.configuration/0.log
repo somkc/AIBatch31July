@@ -1,0 +1,44 @@
+2026-08-12 07:45:00,881 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2026-08-12 07:46:03,727 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\STUDY\JANBASK\AIBatch31July\SelfHealing\pom.xml
+2026-08-12 07:46:04,133 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SelfHealing:SelfHealing:0.0.1-SNAPSHOT @ S:\STUDY\JANBASK\AIBatch31July\SelfHealing\pom.xml.
+2026-08-12 07:46:04,319 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SelfHealing/src/main/java
+2026-08-12 07:46:04,322 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SelfHealing/src/test/java
+2026-08-12 07:46:04,445 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2026-08-12 07:46:04,662 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:46:04,664 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:50:58,054 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:50:58,055 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:51:14,708 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:51:14,709 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:51:17,689 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:51:17,691 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:51:49,488 [Worker-17: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SelfHealing:SelfHealing:0.0.1-SNAPSHOT @ S:\STUDY\JANBASK\AIBatch31July\SelfHealing\pom.xml.
+2026-08-12 07:51:49,753 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:51:49,755 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:52:04,802 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:52:04,803 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:53:01,812 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:53:01,812 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:54:13,016 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:54:13,017 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:54:15,333 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:54:15,334 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:56:15,993 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\pom.xml
+2026-08-12 07:56:16,043 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SelfHealingVersion1:SelfHealingVersion1:0.0.1-SNAPSHOT @ S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\pom.xml.
+2026-08-12 07:56:16,159 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SelfHealingVersion1/src/main/java
+2026-08-12 07:56:16,161 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SelfHealingVersion1/src/test/java
+2026-08-12 07:56:16,193 [Worker-26: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2026-08-12 07:56:16,379 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\main\resources
+2026-08-12 07:56:16,380 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\test\resources
+2026-08-12 07:57:26,587 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 07:57:26,587 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 07:57:46,702 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\main\resources
+2026-08-12 07:57:46,703 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\test\resources
+2026-08-12 07:57:52,548 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\main\resources
+2026-08-12 07:57:52,549 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealingVersion1\src\test\resources
+2026-08-12 08:17:30,891 [Worker-28: Launching Base] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 08:17:30,893 [Worker-28: Launching Base] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 08:22:27,897 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 08:22:27,899 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
+2026-08-12 08:23:59,944 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\main\resources
+2026-08-12 08:23:59,945 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory S:\STUDY\JANBASK\AIBatch31July\SelfHealing\src\test\resources
