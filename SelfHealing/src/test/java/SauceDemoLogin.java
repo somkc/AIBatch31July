@@ -8,7 +8,7 @@ public class SauceDemoLogin {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.saucedemo.com/");
-		driver.findElement(By.xpath("//input[@id='user-name']")).sendKeys("standard_user");
+		driver.findElement(By.xpath("//input[@id='user-name123']")).sendKeys("standard_user");
 		driver.findElement(By.xpath("//input[@id='password1']")).sendKeys("secret_sauce");
 		
 		driver.findElement(By.xpath("//input[@id='login-button']")).click();

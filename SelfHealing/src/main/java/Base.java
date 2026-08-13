@@ -14,19 +14,16 @@ public class Base {
         driver.manage().window().maximize();
 
         driver.get("https://www.saucedemo.com");
+        SelfHealingDriver healingDriver = new SelfHealingDriver(driver);
+      
+        healingDriver.findElement(By.xpath("//input[@id='user-name']")).sendKeys("standard_user");
+        healingDriver.findElement(By.xpath("//input[@id='password1']")).sendKeys("secret_sauce");
+		
+        healingDriver.findElement(By.xpath("//input[@id='login-button']")).click();
+		Thread.sleep(3000);
+		healingDriver.findElement(By.xpath("//span[@class='title']"));
 
-        SelfHealingDriver healingDriver =
-                new SelfHealingDriver(driver);
-
-        healingDriver.findElement(By.id("user-name123"))
-                .sendKeys("standard_user");
-
-        healingDriver.findElement(By.id("password123"))
-                .sendKeys("secret_sauce");
-
-        healingDriver.findElement(By.id("login-button123"))
-                .click();
-
+      
     }
 
 }
