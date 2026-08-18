@@ -1,9 +1,11 @@
 // endsWith: it takes a substring as an argument and it checks if the string starts with that specified substring. It returns a boolean(true or false).
 // string.endsWith(substring)
-let a = 'Love is the best to in this world'
-console.log(a.endsWith('world'));
-console.log(a.endsWith('wor'));
-console.log(a.endsWith('in this world'));
-console.log(a.endsWith('d'));
+let string = 'Love is the best to in this world'
+console.log(string.endsWith('world')) // true
+console.log(string.endsWith('love')) // false
+console.log(string.endsWith('in this world')) // true
 
-//"thanks for the order , your order id is s324324_orderid"
+let country = 'Finland'
+console.log(country.endsWith('land')) // true
+console.log(country.endsWith('fin')) // false
+console.log(country.endsWith('Fin')) //  false
