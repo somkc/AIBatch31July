@@ -1,0 +1,7 @@
+| Exception        | When it occurs            | Simple example                |
+| ---------------- | ------------------------- | ----------------------------- |
+| `Error`          | General/custom error      | `throw new Error()`           |
+| `ReferenceError` | Variable doesn't exist    | `console.log(x)`              |
+| `TypeError`      | Invalid operation/type    | `10.toUpperCase()`            |
+| `SyntaxError`    | Invalid syntax            | `let x = ;`                   |
+| `RangeError`     | Value outside valid range | Invalid `toFixed()` precision |
