@@ -10,7 +10,7 @@ test.skip('mousehover',async({page})=>{
 
 })
 
-test.skip('rightclick',async({page})=>{
+test('rightclick',async({page})=>{
   await page.goto("https://demoqa.com/buttons");
  const rightbutton= await page.locator("#rightClickBtn");
  await page.waitForTimeout(3000);
@@ -19,11 +19,12 @@ test.skip('rightclick',async({page})=>{
 
 })
 
-test('doubleclick',async({page})=>{
+test.only('doubleclick',async({page})=>{
   await page.goto("https://demoqa.com/buttons");
  const double= await page.locator("#doubleClickBtn");
  await page.waitForTimeout(3000);
   double.dblclick();
-  await page.waitForTimeout(3000);
+//  await page.waitForTimeout(3000);
+  await page.locator("//input[@id='name]").isVisible()
 
 })

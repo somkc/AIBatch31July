@@ -3,9 +3,9 @@ import{expect,test} from '@playwright/test'
 test('softassertions',async({page})=>{
 
     await page.goto("https://www.saucedemo.com/");
-    await expect.soft(page.locator("//input[@id='user-name1']")).toBeVisible();
+    await expect.soft(page.locator("//input[@id='user-name']")).toBeVisible();
     await page.locator("//input[@id='user-name']").fill("standard_user");
-    await page.locator("//input[@id='password']").fill("123456");
-    await page.waitForTimeout(3000);
+    await page.locator("//input[@id='password1']").fill("123456");
+    //await page.waitForTimeout(3000);
 
 })

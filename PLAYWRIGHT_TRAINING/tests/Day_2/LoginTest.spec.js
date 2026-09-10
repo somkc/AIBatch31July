@@ -1,7 +1,7 @@
 import {expect, test} from '@playwright/test'
 import { skip } from 'node:test';
 
-test.skip('verify login',async({page})=>{
+test('verify login',async({page})=>{
 await page.goto("https://www.saucedemo.com/");
 await page.locator("#user-name").fill("standard_user");
 await page.locator("#password").fill("secret_sauce");
@@ -23,7 +23,7 @@ expect(await page.locator("h3[data-test='error']")).toContainText("Username and 
 
 })
 
-test,skip('place order',async({page})=>{
+test('place order',async({page})=>{
 await page.goto("https://www.saucedemo.com/");
 await page.locator("#user-name").fill("standard_user");
 await page.locator("#password").fill("secret_sauce");
