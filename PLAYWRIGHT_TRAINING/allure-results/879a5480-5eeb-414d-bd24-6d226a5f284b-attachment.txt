@@ -1,0 +1,4 @@
+total columns-> 3
+Name
+Age
+Place
