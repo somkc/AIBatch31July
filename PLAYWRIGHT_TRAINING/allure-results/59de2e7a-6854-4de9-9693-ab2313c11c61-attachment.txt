@@ -1,0 +1,8 @@
+************************ PUT  REQUEST *******************************
+400
+{
+  timestamp: '2026-09-12T01:52:02.445+00:00',
+  status: 400,
+  error: 'Bad Request',
+  path: '/books/undefined'
+}

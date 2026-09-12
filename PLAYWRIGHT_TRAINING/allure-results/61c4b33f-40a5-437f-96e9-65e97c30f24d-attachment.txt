@@ -1,0 +1,21 @@
+200
+[
+  {
+    id: 2,
+    title: 'Book A',
+    author: 'Author A',
+    genre: 'Fantasy',
+    publishedYear: 2019,
+    price: 150,
+    isbn: '2222222222222'
+  },
+  {
+    id: 3,
+    title: 'Book B',
+    author: 'Author B',
+    genre: 'Thriller',
+    publishedYear: 2020,
+    price: 250,
+    isbn: '3333333333333'
+  }
+]

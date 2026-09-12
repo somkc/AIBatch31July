@@ -1,0 +1,8 @@
+************************ GET REQUEST ID *******************************
+400
+{
+  timestamp: '2026-09-12T01:52:02.456+00:00',
+  status: 400,
+  error: 'Bad Request',
+  path: '/books/undefined'
+}

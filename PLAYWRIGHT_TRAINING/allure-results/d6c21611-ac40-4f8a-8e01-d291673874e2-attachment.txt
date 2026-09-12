@@ -1,0 +1,12 @@
+************************ POST REQUEST *******************************
+200
+{
+  id: 9,
+  title: 'nuclear',
+  author: 'Charles',
+  genre: 'theory',
+  publishedYear: 2023,
+  price: 299.99,
+  isbn: '1234567effe890123'
+}
+9

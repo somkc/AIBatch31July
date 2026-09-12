@@ -1,0 +1,31 @@
+************************ GET REQUEST *******************************
+200
+[
+  {
+    id: 6,
+    title: 'nuclear',
+    author: 'Charles',
+    genre: 'theory',
+    publishedYear: 2023,
+    price: 299.99,
+    isbn: '1234567effe890123'
+  },
+  {
+    id: 7,
+    title: 'nuclear',
+    author: 'Charles',
+    genre: 'theory',
+    publishedYear: 2023,
+    price: 299.99,
+    isbn: '1234567effe890123'
+  },
+  {
+    id: 8,
+    title: 'nuclear',
+    author: 'Charles',
+    genre: 'theory',
+    publishedYear: 2023,
+    price: 299.99,
+    isbn: '1234567effe890123'
+  }
+]

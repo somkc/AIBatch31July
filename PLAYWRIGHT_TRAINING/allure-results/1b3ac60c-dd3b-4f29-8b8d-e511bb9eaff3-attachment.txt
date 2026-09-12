@@ -1,0 +1,11 @@
+************************ PUT  REQUEST *******************************
+200
+{
+  id: 10,
+  title: 'chemistry',
+  author: 'Dean',
+  genre: 'stimulation',
+  publishedYear: 2023,
+  price: 299.99,
+  isbn: '1234567effe890123'
+}
